@@ -39,3 +39,5 @@ build/
 
 .env
 /.idea/
+
+backend/.idea/
